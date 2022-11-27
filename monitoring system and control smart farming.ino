@@ -20,8 +20,8 @@ String status_relay1 = "";
 #define WIFI_PASSWORD "12345677" // password
 // deklarasi firebase
 #define FIREBASE_HOST "database-pestisida-default-rtdb.firebaseio.com"   // host akun                   
-#define FIREBASE_AUTH "z3ZbnDHSLrWSfz6EV03rBEVMI4GSgQOeJeggvaRC" //autentifikasi
-#define API_KEY "AIzaSyCyEM9DhMn4TLoKH3A6_4-cNyUrpI9jFws"  // api KEY
+#define FIREBASE_AUTH "z********BEVMI4GSgQOeJeggvaRC" //autentifikasi
+#define API_KEY "AIzaSyCyEM9*********H3A6_4-cNyUrpI9jFws"  // api KEY
 #define DATABASE_URL "https://database-pestisida-default-rtdb.firebaseio.com/"  //URL frebase
 //data firebase
 FirebaseData fbdo;  //firebase data relay
